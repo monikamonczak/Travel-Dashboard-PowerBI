@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/20746532/README.md)
 # 🌍 Travel Dashboard in Power BI
 
 ## 📌 Project Overview
@@ -37,13 +36,13 @@ This Power BI dashboard analyzes travel patterns, spending behavior, and demogra
 ![Title](https://github.com/monikamonczak/Travel-Dashboard-PowerBI/blob/main/page0-title.png)
 
 ### Travel Overview
-![Travel Overview](https://github.com/monikamonczak/Travel-Dashboard-PowerBI/blob/main/Page1_travel_overview.png)
+![Travel Overview](https://github.com/monikamonczak/Travel-Dashboard-PowerBI/blob/main/Page_1_travel_overview.png)
 
 ### Traveler Insights
-![Traveler Insights](https://github.com/monikamonczak/Travel-Dashboard-PowerBI/blob/main/Page2_traveler_insights.png)
+![Traveler Insights](https://github.com/monikamonczak/Travel-Dashboard-PowerBI/blob/main/Page_2_traveler_insights.png)
 
 ### Trip Cost Analysis
-![Trip Cost Analysis](https://github.com/monikamonczak/Travel-Dashboard-PowerBI/blob/main/page3_trip_cost_analysis.png)
+![Trip Cost Analysis](https://github.com/monikamonczak/Travel-Dashboard-PowerBI/blob/main/page_3_trip_cost_analysis.png)
 
 ## 🛠 Tools Used
 - Power BI Desktop
